@@ -1,0 +1,170 @@
+{
+  "Sarah Roberts": {
+    "Organization": "UW Health University Hospital",
+    "Type ": "Corporate Business",
+    "Resources ": "STEM Internship ",
+    "Contact": "(608) 263-6400",
+    "Address ": "600 Highland Ave, Madison, WI 53792"
+  },
+  "Ann Ritten": {
+    "Organization": "People Helping People",
+    "Type ": "Non-Profit Organization ",
+    "Resources ": "School Supply Donations ",
+    "Contact": "(608) 434-0002",
+    "Address ": "8805 Broadway, Baraboo, WI 53913"
+  },
+  "John Mandrell": {
+    "Organization": "MBE CPAs ",
+    "Type ": "Corporate Business",
+    "Resources ": "Accounting Internship",
+    "Contact": "(608) 837-2584",
+    "Address ": "100 Wilburn Rd Suite 103, Sun Prairie, WI 53590"
+  },
+  "Zahra Usmani": {
+    "Organization": "Middleton Baby and Child Care LLC",
+    "Type ": "Local Business ",
+    "Resources ": "Day Care ",
+    "Contact": "(608) 819-8370",
+    "Address ": "5219 Century Ave, Middleton, WI 53562 "
+  },
+  "Barbara Richards": {
+    "Organization": "Yahara Software ",
+    "Type ": "Corporate Business",
+    "Resources ": "IT Internship ",
+    "Contact": "(608) 821-1750",
+    "Address ": "8000 Excelsior Drive, Suite 400, Madison, WI 53717"
+  },
+  "Oliver Williamson": {
+    "Organization": "Huntington Learning Center ",
+    "Type ": "Local Business ",
+    "Resources ": "Tutoring Services ",
+    "Contact": "(608) 831-5760",
+    "Address ": "6661 University Avenue, Middleton, WI 53562"
+  },
+  "Noah Thompson": {
+    "Organization": "Middleton Public Library ",
+    "Type ": "Government Affilated ",
+    "Resources ": "Offsite Courses ",
+    "Contact": "(608) 827-7425",
+    "Address ": "7425 Hubbard Ave., Middleton, WI 53562"
+  },
+  "Henry Hudson": {
+    "Organization": "Standard Imaging Inc. ",
+    "Type ": "Corporate Business",
+    "Resources ": "Labs and Equipment ",
+    "Contact": "(608) 831-0025",
+    "Address ": "3120 Deming Way, Middleton, WI 53562"
+  },
+  "Maria Taylor": {
+    "Organization": "Madison College ",
+    "Type ": "Government Affilated ",
+    "Resources ": "Offsite Courses",
+    "Contact": "(608) 243-4471",
+    "Address ": "1701 Wright Street, Madison, WI 53704"
+  },
+  "William Lowry": {
+    "Organization": "Anytime Fitness ",
+    "Type ": "Corporate Business",
+    "Resources ": "Equipment ",
+    "Contact": "(608) 836-3131",
+    "Address ": "1011 N Gammon Road, Middleton, WI 53562"
+  },
+  "Emma Anderson": {
+    "Organization": "Middleton Veterinary Hospital",
+    "Type ": "Local Business ",
+    "Resources ": "Guest Speakers",
+    "Contact": "(608) 836-8561",
+    "Address ": "2705 Parmenter, Middleton, WI 53562"
+  },
+  "Kyle Wilson": {
+    "Organization": "Tuscany Language Academy ",
+    "Type ": "Local Business ",
+    "Resources ": "Offsite Courses ",
+    "Contact": "(608) 239-2879",
+    "Address ": "6405 Century Ave., Middleton, WI 53562"
+  },
+  "Litzey Garcia": {
+    "Organization": "Middleton Times Tribute ",
+    "Type ": "Local Business ",
+    "Resources ": "Guest Speakers",
+    "Contact": "(608) 767-3655",
+    "Address ": "7427 Elmwood Ave, Middleton, WI 53562"
+  },
+  "Lance Lopez": {
+    "Organization": "Verison Business Group ",
+    "Type ": "Corporate Business",
+    "Resources ": "IT Internship ",
+    "Contact": "(608) 354-3763",
+    "Address ": "8310 Greenway Blvd Suite 102, Middleton, WI 53562"
+  },
+  "Aarav Kumar": {
+    "Organization": "Sprinter Business Solutions ",
+    "Type ": "For-Profit Business",
+    "Resources ": "Guest Speakers",
+    "Contact": "(715) 551-6464",
+    "Address ": "5920 N 39th Ave, Wausau, WI 54401"
+  },
+  "Paul Davis": {
+    "Organization": "UW Credit Union ",
+    "Type ": "Corporate Business",
+    "Resources ": "Banking Internship ",
+    "Contact": "(608) 232-5000",
+    "Address ": "6750 Century Avenue, Middleton, WI 53562"
+  },
+  "Alexander Moore": {
+    "Organization": "Capital Bank",
+    "Type ": "Corporate Business",
+    "Resources ": "Banking Internship ",
+    "Contact": "(608) 836-1616",
+    "Address ": "710 N High Point Road, Madison, WI 53717"
+  },
+  "Fatima Umar": {
+    "Organization": "Central Midwest Ballet Academy",
+    "Type ": "For-Profit Business",
+    "Resources ": "Offsite Courses ",
+    "Contact": "(608) 422-2003",
+    "Address ": "2831 Parmenter Street, Suite 290, Middleton, WI 53562 "
+  },
+  "Mia Lutz": {
+    "Organization": "Electric Theatre Controls",
+    "Type ": "For-Profit Business",
+    "Resources ": "Electric Internship ",
+    "Contact": "(608) 831-4116",
+    "Address ": "3031 Pleasant View Road, Middleton, WI 53562"
+  },
+  "Filip Issac": {
+    "Organization": "Fiskars Brands Inc.",
+    "Type ": "Corporate Business",
+    "Resources ": "STEM Internship ",
+    "Contact": "(608) 259-1649",
+    "Address ": "7800 Discovery Drive, Middleton, WI 53562"
+  },
+  "Emil Holloway": {
+    "Organization": "Captial One ",
+    "Type ": "Corporate Business",
+    "Resources ": "Guest Speakers",
+    "Contact": "(608) 381-3475",
+    "Address ": "710 N High Point Rd, Madison, WI 53717"
+  },
+  "Salma Angel": {
+    "Organization": "Natus Medical ",
+    "Type ": "Corporate Business",
+    "Resources ": "Medical Internship ",
+    "Contact": "(608) 829-8593",
+    "Address ": "3150 Pleasant View Road, Middleton, WI 53562"
+  },
+  "Jose Rizal": {
+    "Organization": "Lake Ridge Bank ",
+    "Type ": "For-Profit Business",
+    "Resources ": "Offsite Courses ",
+    "Contact": "(608) 824-3244",
+    "Address ": "3207 Parmenter Street, Middleton, WI 53562"
+  },
+  "Antonio Thornefield": {
+    "Organization": "Pipers Mechinical Inc.",
+    "Type ": "For-Profit Business",
+    "Resources ": "Plumbing Internship ",
+    "Contact": "(608) 831-5454",
+    "Address ": "7182 US Highway 14, Suite 508, Middleton, WI 53562"
+  }
+}
